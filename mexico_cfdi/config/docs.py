@@ -2,9 +2,9 @@
 Configuration for docs
 """
 
-# source_link = "https://github.com/[org_name]/mexico_einvoice"
+# source_link = "https://github.com/[org_name]/erpnext_cfdi_mexico"
 # headline = "App that does everything"
 # sub_heading = "Yes, you got that right the first time, everything"
 
 def get_context(context):
-	context.brand_html = "Mexico Einvoice"
+	context.brand_html = "Mexico CFDI"
