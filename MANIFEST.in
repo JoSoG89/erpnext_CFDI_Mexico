@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include mexico_cfdi *.css
+recursive-include mexico_cfdi *.csv
+recursive-include mexico_cfdi *.html
+recursive-include mexico_cfdi *.ico
+recursive-include mexico_cfdi *.js
+recursive-include mexico_cfdi *.json
+recursive-include mexico_cfdi *.md
+recursive-include mexico_cfdi *.png
+recursive-include mexico_cfdi *.py
+recursive-include mexico_cfdi *.svg
+recursive-include mexico_cfdi *.txt
+recursive-exclude mexico_cfdi *.pyc
